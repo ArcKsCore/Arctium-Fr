@@ -1,0 +1,5 @@
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\Configs\RealmServer.conf
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\Configs\WorldServer.conf
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\WorldServer.exe
+C:\Users\Benjamin\Documents\GitHub\Arctium\WorldServer\obj\x64\Release\WorldServer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\GitHub\Arctium\WorldServer\obj\x64\Release\WorldServer.exe

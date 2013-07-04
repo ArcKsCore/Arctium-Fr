@@ -1,0 +1,7 @@
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\Configs\RealmServer.conf
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\Configs\WorldServer.conf
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\RealmServer.exe
+C:\Users\Benjamin\Documents\GitHub\Arctium\Build\Release_x64\RealmServer.pdb
+C:\Users\Benjamin\Documents\GitHub\Arctium\RealmServer\obj\x64\Release\RealmServer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\GitHub\Arctium\RealmServer\obj\x64\Release\RealmServer.exe
+C:\Users\Benjamin\Documents\GitHub\Arctium\RealmServer\obj\x64\Release\RealmServer.pdb
